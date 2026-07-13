@@ -58,6 +58,14 @@ what you build, and what you're currently focused on.
 
 <br/>
 
+### 🗃️ Overall Activity (Public + Private)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/dumbCodesOnly/dumbCodesOnly/main/github-metrics.svg" width="90%"/>
+</div>
+
+<br/>
+
 ### 📈 Contribution Graph
 
 <div align="center">

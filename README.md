@@ -39,14 +39,14 @@ what you build, and what you're currently focused on.
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0e14?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0a0e14?style=for-the-badge&logo=python&logoColor=3776AB)
-![React](https://img.shields.io/badge/React-0a0e14?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0a0e14?style=for-the-badge&logo=node.js&logoColor=339933)
-![Docker](https://img.shields.io/badge/Docker-0a0e14?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0a0e14?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-0a0e14?style=for-the-badge&logo=git&logoColor=F05032)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e14?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-eef2f5?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/JavaScript-0a0e14?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-eef2f5?style=for-the-badge&logo=python&logoColor=3776AB"/><img src="https://img.shields.io/badge/Python-0a0e14?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-eef2f5?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/React-0a0e14?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-eef2f5?style=for-the-badge&logo=node.js&logoColor=339933"/><img src="https://img.shields.io/badge/Node.js-0a0e14?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-eef2f5?style=for-the-badge&logo=docker&logoColor=2496ED"/><img src="https://img.shields.io/badge/Docker-0a0e14?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AWS-eef2f5?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/><img src="https://img.shields.io/badge/AWS-0a0e14?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-eef2f5?style=for-the-badge&logo=git&logoColor=F05032"/><img src="https://img.shields.io/badge/Git-0a0e14?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-eef2f5?style=for-the-badge&logo=postgresql&logoColor=4169E1"/><img src="https://img.shields.io/badge/PostgreSQL-0a0e14?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/></picture>
 
 </div>
 

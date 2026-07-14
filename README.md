@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+code;Always+learning+something+new;Open+to+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-dumbCodesOnly-00e5a0?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e14)](https://github.com/dumbCodesOnly)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c8cff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0e14)](https://dumbcodesonly.github.io/dumbCodesOnly-dev/)
@@ -43,20 +43,16 @@ what you build, and what you're currently focused on.
 
 <br/>
 
-### 📊 GitHub Stats
+### 🗃️ Overall Activity (Public + Private)
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dumbCodesOnly&theme=dark&hide_border=true&background=0a0e14&ring=00e5a0&fire=7c8cff&currStreakLabel=00e5a0" width="60%"/>
 
-</div>
-
 <br/>
 
-### 🗃️ Overall Activity (Public + Private)
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/dumbCodesOnly/profile/main/github-metrics.svg" width="90%"/>
+
 </div>
 
 <br/>

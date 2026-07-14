@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+code;Always+learning+something+new;Open+to+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=520&lines=Building+cool+stuff+with+code;Always+learning+something+new;Open+to+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -25,17 +25,20 @@
 
 <br/>
 
-### 🧠 About Me
+### `// about`
 
 ```txt
-> whoami
+$ whoami
 Placeholder bio — replace with a couple lines about who you are,
 what you build, and what you're currently focused on.
+
+$ cat role.txt
+Full-Stack Developer · Building things that work
 ```
 
 <br/>
 
-### ⚙️ Tech Stack
+### `// stack`
 
 <div align="center">
 
@@ -52,7 +55,7 @@ what you build, and what you're currently focused on.
 
 <br/>
 
-### 🗃️ Overall Activity (Public + Private)
+### `// activity` (public + private)
 
 <div align="center">
 

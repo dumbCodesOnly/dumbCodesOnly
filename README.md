@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,100:10151f&height=170&section=header&text=allocsys&fontSize=56&fontColor=00e5a0&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20work&descAlignY=66&descSize=17&descColor=7c8cff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,100:10151f&height=170&section=header&text=allocsys&fontSize=56&fontColor=00e5a0&animation=fadeIn&fontAlignY=34&desc=Backend%20Developer%20%7C%20APIs%2C%20Infra%20%26%20AI-Agent%20Tooling&descAlignY=66&descSize=17&descColor=7c8cff" width="100%"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-Visit-5a6bd6?style=for-the-badge&logo=vercel&logoColor=0a0e14&labelColor=eef2f5"/>
   <img src="https://img.shields.io/badge/Portfolio-Visit-7c8cff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0e14" alt="Portfolio"/>
 </picture></a>
-<a href="mailto:you@example.com"><picture>
+<a href="mailto:allocsys@gmail.com"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-Contact-00b386?style=for-the-badge&logo=gmail&logoColor=0a0e14&labelColor=eef2f5"/>
   <img src="https://img.shields.io/badge/Email-Contact-00e5a0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e14" alt="Email"/>
 </picture></a>
@@ -29,11 +29,15 @@
 
 ```txt
 $ whoami
-Placeholder bio — replace with a couple lines about who you are,
-what you build, and what you're currently focused on.
+Backend-focused developer who builds the infrastructure layer AI agents
+actually run on — auth, rate limiting, multi-service integrations —
+rather than just wiring prompts together. Comfortable owning a project
+end-to-end, from API design to hardening to documentation.
 
 $ cat role.txt
-Full-Stack Developer · Building things that work
+Backend Developer · APIs, Infra & AI-Agent Tooling
+Recent focus: Model Context Protocol (MCP) servers and agentic
+workflow automation (n8n + LangChain).
 ```
 
 <br/>
@@ -43,13 +47,15 @@ Full-Stack Developer · Building things that work
 <div align="center">
 
 <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-eef2f5?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/JavaScript-0a0e14?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-eef2f5?style=for-the-badge&logo=python&logoColor=3776AB"/><img src="https://img.shields.io/badge/Python-0a0e14?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-eef2f5?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/React-0a0e14?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-eef2f5?style=for-the-badge&logo=typescript&logoColor=3178C6"/><img src="https://img.shields.io/badge/TypeScript-0a0e14?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/></picture>
 <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-eef2f5?style=for-the-badge&logo=node.js&logoColor=339933"/><img src="https://img.shields.io/badge/Node.js-0a0e14?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-eef2f5?style=for-the-badge&logo=docker&logoColor=2496ED"/><img src="https://img.shields.io/badge/Docker-0a0e14?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AWS-eef2f5?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/><img src="https://img.shields.io/badge/AWS-0a0e14?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-eef2f5?style=for-the-badge&logo=python&logoColor=3776AB"/><img src="https://img.shields.io/badge/Python-0a0e14?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Express-eef2f5?style=for-the-badge&logo=express&logoColor=000000"/><img src="https://img.shields.io/badge/Express-0a0e14?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Cloudflare-eef2f5?style=for-the-badge&logo=cloudflare&logoColor=F6821F"/><img src="https://img.shields.io/badge/Cloudflare-0a0e14?style=for-the-badge&logo=cloudflare&logoColor=F6821F" alt="Cloudflare"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/n8n-eef2f5?style=for-the-badge&logo=n8n&logoColor=EA4B71"/><img src="https://img.shields.io/badge/n8n-0a0e14?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LangChain-eef2f5?style=for-the-badge&logoColor=1C3C3C"/><img src="https://img.shields.io/badge/LangChain-0a0e14?style=for-the-badge&logoColor=1C3C3C" alt="LangChain"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MCP-eef2f5?style=for-the-badge&logoColor=7c8cff"/><img src="https://img.shields.io/badge/MCP-0a0e14?style=for-the-badge&logoColor=7c8cff" alt="Model Context Protocol"/></picture>
 <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-eef2f5?style=for-the-badge&logo=git&logoColor=F05032"/><img src="https://img.shields.io/badge/Git-0a0e14?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-eef2f5?style=for-the-badge&logo=postgresql&logoColor=4169E1"/><img src="https://img.shields.io/badge/PostgreSQL-0a0e14?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/></picture>
 
 </div>
 
